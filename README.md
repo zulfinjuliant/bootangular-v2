@@ -1,4 +1,4 @@
-# Bootangular-V2 (Frontend JS Framework)
+# Bootangular-V2 (Front End JS No Reload Page)
 ![gambar bootangular](http://i1087.photobucket.com/albums/j474/Zulfindra_Juliant/Screenshot-Front%20End%20Skeleton%20-%20BootangV2%20-%20Chromium_zpsv6sdnpvi.png)
 
 ## Tentang Framework
