@@ -6,22 +6,14 @@ cobaApp.config(function($routeProvider) {
 	$routeProvider
 
 // routing konten beranda
-.when('/', {
-	templateUrl : 'konten/beranda.html',
-	controller  : 'brdController'
-})
+.when('/', {templateUrl : 'konten/beranda.html',controller  : 'brdController'})
 
 // routing konten tentang
-.when('/tentang', {
-	templateUrl : 'konten/tentang.html',
-	controller  : 'ttgController'
+.when('/tentang', {templateUrl : 'konten/tentang.html',controller  : 'ttgController'
 })
 
 // routing konten kontak
-.when('/kontak', {
-	templateUrl : 'konten/kontak.html',
-	controller  : 'ktkController'
-});
+.when('/kontak', {templateUrl : 'konten/kontak.html',controller  : 'ktkController'});
 });
 
 //controller konten
